@@ -1,0 +1,43 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "1st Post",
+      "body": "This is my 1st post which is more than 25 characters"
+    },
+    {
+      "id": 2,
+      "title": "2nd Post",
+      "body": "This is my 2nd post"
+    },
+    {
+      "id": 3,
+      "title": "3rd Post",
+      "body": "This is my 3rd post"
+    },
+    {
+      "id": 4,
+      "title": "4th Post",
+      "datetime": "June 30, 2022 6:02:01 PM",
+      "body": "This is my 4th post which is edited"
+    },
+    {
+      "id": 5,
+      "title": "Fifth post",
+      "datetime": "July 11, 2022 10:18:50 AM",
+      "body": "checking axios\n"
+    },
+    {
+      "id": 6,
+      "title": "REDUX !!",
+      "datetime": "July 11, 2022 1:27:38 PM",
+      "body": "REDUX"
+    },
+    {
+      "id": 7,
+      "title": "add new post",
+      "datetime": "July 11, 2022 5:12:22 PM",
+      "body": "just checking"
+    }
+  ]
+}
